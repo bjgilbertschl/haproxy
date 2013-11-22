@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 haproxy Cookbook
 ================
 Installs haproxy and prepares the configuration location.
@@ -221,3 +222,7 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+=======
+haproxy
+=======
+>>>>>>> 19258fed4d9185b6740a26b23b6a1b0eceb78587
